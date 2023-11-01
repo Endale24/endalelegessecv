@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "English", "HABTE ENDALE LEGESSE ", "Chinese", "李济希"
+title                    : "HABTE ENDALE LEGESSE "
 title_separator          : "-"
-name                     : &name "Arun Jacob"
+name                     : &name "HABTE ENDALE LEGESSE "
 description              : &description "personal description"
-url                      : https://arungapatchka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://endalelegessecv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arungapatchka/arungapatchka.github.io"
+repository               : "Endale24/endalelegessecv"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arun Jacob"
-  avatar           : "githubprofile.jpg"
+  name             : "HABTE ENDALE LEGESSE"
+  avatar           : "images/githubprofile.jpg"
   bio              : "glumpenproletariat (noun): The melancholic stratum of the proletariat."
   location         : 
-  employer         : "University of Toronto"
-  googlescholar    : "https://scholar.google.ca/citations?user=ewh3Q1AAAAAJ&hl=en&oi=ao"
-  email            :
+  employer         : "Beijing Jiaotong University 北京交通大学"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ii8j5TIAAAAJ"
+  email            : "endale_21@bjtu.edu.cn/endale2400@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "arungapatchka"
+  github           : "https://github.com/Endale24"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8446-099X"
+  orcid            : "https://orcid.org/0000-0002-7516-6449"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@arungapatchka"
+  twitter          : "https://www.linkedin.com/in/endalelegessehabte/"
   vine             :
   weibo            :
   xing             :
